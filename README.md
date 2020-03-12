@@ -1,4 +1,4 @@
-# 软件工程师方向学习、面试资料
+# 软件工程师方向学习资料
 https://github.com/huihut/interview
 
 https://github.com/huihut/CS-Books
