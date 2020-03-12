@@ -48,6 +48,8 @@ https://github.com/r-lyeh-archived/fsm
 
 https://github.com/opencv/opencv
 
+https://github.com/PointCloudLibrary/pcl
+
 
 
 # ros pluginlib
