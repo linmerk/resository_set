@@ -38,12 +38,12 @@ https://github.com/Urban82/Aes256
 
 https://github.com/weidai11/cryptopp
 
+# CMAKE 
+https://github.com/onqtam/awesome-cmake
 
-# embedded system
+https://github.com/Akagi201/learning-cmake
 
-https://github.com/FreeRTOS/FreeRTOS
-
-https://github.com/RT-Thread/rt-thread
+https://github.com/ttroy50/cmake-examples
 
 # linux system_monitor
 
@@ -59,6 +59,8 @@ https://github.com/CppMicroServices/CppMicroServices
 # log
 
 https://github.com/gabime/spdlog
+
+https://github.com/google/glog
 
 # cpptest
 https://github.com/google/googletest
@@ -89,6 +91,12 @@ https://github.com/r-lyeh-archived/fsm
 https://github.com/opencv/opencv
 
 https://github.com/PointCloudLibrary/pcl
+
+# embedded system
+
+https://github.com/FreeRTOS/FreeRTOS
+
+https://github.com/RT-Thread/rt-thread
 
 # deep_learnning
 
