@@ -90,6 +90,10 @@ https://github.com/Tencent/behaviac
 
 https://github.com/r-lyeh-archived/fsm
 
+# 内存检测工具
+http://valgrind.org/
+mtrace
+
 # Visual
 
 https://github.com/opencv/opencv
