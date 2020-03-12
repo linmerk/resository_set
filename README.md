@@ -37,6 +37,8 @@ https://github.com/weidai11/cryptopp
 
 # embedded system
 
+https://github.com/FreeRTOS/FreeRTOS
+
 https://github.com/RT-Thread/rt-thread
 
 # linux system_monitor
