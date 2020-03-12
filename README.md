@@ -32,6 +32,12 @@ https://zhuanlan.zhihu.com/c_1099707347118718976
 
 https://github.com/zeromq/libzmq
 
+# Hardware Communication
+
+https://github.com/OpenEtherCATsociety/SOEM    
+
+https://github.com/CANopenNode/CANopenNode
+
 # Encrypt & Decrypt
 
 https://github.com/Urban82/Aes256
