@@ -6,9 +6,10 @@ https://github.com/huihut/CS-Books
 # github star最多的c++项目排名
 https://github.com/search?q=C%2B%2B&type=
 
-# modern_cpp_tutorial
+# Algorithms
 
-https://github.com/changkun/modern-cpp-tutorial
+https://github.com/haoel/leetcode
+
 
 # network
 https://github.com/chenshuo/muduo
