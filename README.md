@@ -1,3 +1,15 @@
+# 软件工程师方向学习、面试资料
+https://github.com/huihut/interview
+
+https://github.com/huihut/CS-Books
+
+# github star最多的c++项目排名
+https://github.com/search?q=C%2B%2B&type=
+
+# modern_cpp_tutorial
+
+https://github.com/changkun/modern-cpp-tutorial
+
 # network
 https://github.com/chenshuo/muduo
 
@@ -11,6 +23,16 @@ https://github.com/protocolbuffers/protobuf
 
 https://github.com/ApolloAuto/apollo
 
+https://github.com/grpc/grpc
+
+https://github.com/zeromq/libzmq
+
+# Encrypt & Decrypt
+
+https://github.com/Urban82/Aes256
+
+https://github.com/weidai11/cryptopp
+
 
 # embedded system
 
@@ -23,6 +45,10 @@ https://github.com/netdata/netdata
 # frame_work
 
 https://github.com/CppMicroServices/CppMicroServices
+
+# log
+
+https://github.com/gabime/spdlog
 
 
 # common use cpplib
