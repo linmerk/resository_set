@@ -5,6 +5,8 @@ https://github.com/chenshuo/muduo-tutorial
 
 https://github.com/libuv/libuv
 
+https://github.com/zaphoyd/websocketpp
+
 https://github.com/protocolbuffers/protobuf
 
 https://github.com/ApolloAuto/apollo
@@ -60,4 +62,5 @@ https://github.com/ros-controls/ros_controllers
 
 https://github.com/xqms/rosmon
 
+https://github.com/ros-drivers/rosserial
 
