@@ -29,6 +29,10 @@ https://zhuanlan.zhihu.com/c_1099707347118718976
 
 https://github.com/zeromq/libzmq
 
+https://github.com/libevent/libevent
+
+https://github.com/nmathewson/libevent-book
+
 # Hardware Communication
 
 https://github.com/OpenEtherCATsociety/SOEM    
@@ -36,6 +40,8 @@ https://github.com/OpenEtherCATsociety/SOEM
 https://github.com/CANopenNode/CANopenNode
 
 # Encrypt & Decrypt
+
+https://github.com/JieweiWei/md5
 
 https://github.com/Urban82/Aes256
 
@@ -54,6 +60,9 @@ https://github.com/onqtam/awesome-cmake
 https://github.com/netdata/netdata
 
 # Frame_work
+
+
+
 
 https://github.com/openframeworks/openFrameworks
 
