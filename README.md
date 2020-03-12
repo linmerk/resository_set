@@ -51,12 +51,17 @@ https://github.com/netdata/netdata
 
 # frame_work
 
+https://github.com/openframeworks/openFrameworks
+
 https://github.com/CppMicroServices/CppMicroServices
+
 
 # log
 
 https://github.com/gabime/spdlog
 
+# cpptest
+https://github.com/google/googletest
 
 # common use cpplib
 
@@ -85,7 +90,13 @@ https://github.com/opencv/opencv
 
 https://github.com/PointCloudLibrary/pcl
 
+# deep_learnning
 
+https://github.com/zeusees/HyperLPR
+
+https://github.com/BVLC/caffe
+
+https://github.com/tensorflow/tensorflow
 
 # ros pluginlib
 
