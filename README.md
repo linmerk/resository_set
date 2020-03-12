@@ -61,9 +61,6 @@ https://github.com/netdata/netdata
 
 # Frame_work
 
-
-
-
 https://github.com/openframeworks/openFrameworks
 
 https://github.com/CppMicroServices/CppMicroServices
@@ -88,6 +85,8 @@ https://github.com/madler/zlib
 
 https://github.com/iwongu/sqlite3pp
 
+# Cpp-Design-Patterns(中文教程)
+https://github.com/liu-jianhao/Cpp-Design-Patterns
 
 # Behavior tree &FSM
 
