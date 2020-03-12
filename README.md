@@ -44,7 +44,7 @@ https://github.com/Urban82/Aes256
 
 https://github.com/weidai11/cryptopp
 
-# CMAKE 
+# Cmake
 
 https://github.com/Akagi201/learning-cmake
 
@@ -52,27 +52,27 @@ https://github.com/ttroy50/cmake-examples
 
 https://github.com/onqtam/awesome-cmake
 
-# linux system_monitor
+# Linux system_monitor
 
 https://github.com/netdata/netdata
 
-# frame_work
+# Frame_work
 
 https://github.com/openframeworks/openFrameworks
 
 https://github.com/CppMicroServices/CppMicroServices
 
 
-# log
+# Log
 
 https://github.com/gabime/spdlog
 
 https://github.com/google/glog
 
-# cpptest
+# Cpptest
 https://github.com/google/googletest
 
-# common use cpplib
+# Common use cpplib
 
 https://github.com/jbeder/yaml-cpp
 
@@ -83,7 +83,7 @@ https://github.com/madler/zlib
 https://github.com/iwongu/sqlite3pp
 
 
-# behavior tree &FSM
+# Behavior tree &FSM
 
 https://github.com/BehaviorTree/BehaviorTree.CPP
 
@@ -93,19 +93,19 @@ https://github.com/Tencent/behaviac
 
 https://github.com/r-lyeh-archived/fsm
 
-# visual
+# Visual
 
 https://github.com/opencv/opencv
 
 https://github.com/PointCloudLibrary/pcl
 
-# embedded system
+# Embedded system
 
 https://github.com/FreeRTOS/FreeRTOS
 
 https://github.com/RT-Thread/rt-thread
 
-# deep_learnning
+# Deep_learnning
 
 https://github.com/zeusees/HyperLPR
 
